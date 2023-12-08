@@ -1,7 +1,7 @@
 ## Voting Contract
 
 This is a voting contract using Hardhat, to compile, test and deploy the contract.
-The contract was deployed on [Sepolia Testnet](https://sepolia.etherscan.io/address/0xc35de858FF871dbc216e4345373B82975dEB0928#writeContract)
+The contract was deployed on [Sepolia Testnet](https://sepolia.etherscan.io/address/0x05F9CbDCFed00536e09ECCe4A8759D4ad7e82a44#code)
 
 #### WALKTHROGH
 - After running `npm install`
@@ -9,7 +9,7 @@ The contract was deployed on [Sepolia Testnet](https://sepolia.etherscan.io/addr
 - You'll also need sepolia test ETH for deployment which can be gotten from various faucets like: [sepoliafaucet](https://sepoliafaucet.com/), [infurafaucet](https://www.infura.io/faucet/sepolia)
 
 #### SHELL COMMANDS
-- To compile the todo.sol
+- To compile the Voting.sol
 
 `npx hardhat compile`
 - To test the contract
